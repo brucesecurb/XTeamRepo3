@@ -1,0 +1,3 @@
+These are some of the codes my team developed in order to implement
+GameSparks (Back-end online platform), this will provide all the back end functionality
+regarding the game data base (Messaging, UserData).

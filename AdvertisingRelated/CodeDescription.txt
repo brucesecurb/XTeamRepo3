@@ -1,0 +1,5 @@
+These are a couple of scripts a developed in order to implement
+IronSource (Ad Network company) API.
+
+Using interfaces to link the different rewards our players can recieve depending on where are they seeing the ads
+Without repeating similar code.
